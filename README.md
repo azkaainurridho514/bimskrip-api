@@ -30,3 +30,7 @@ Dibuat untuk mengelola proses bimbingan skripsi antara **mahasiswa** dan **dosen
 - **Database:** MySQL
 - **ORM:** GORM
 - **Storage:** Local file storage (`/storage/upload/photo`)
+
+---
+
+- link repo aplikasi : https://github.com/azkaainurridho514/bimskrip-app
